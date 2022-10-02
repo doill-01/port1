@@ -1,0 +1,41 @@
+img{
+	/* position: absolute; */
+	top: 100px;
+	left: 0;
+	width: 600px;
+	height: 100%;
+}
+
+    
+  /* HTML5 elements */
+  section {
+	padding: 1rem 0;
+  }
+  
+  /* Layout */
+  .container {
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto;
+	padding: 0 10px;
+  }
+  
+  .section-left{
+	text-align: center;
+	width: 1200px;
+	height: 500px;
+  }
+
+  .typical{
+	text-align: center;
+
+  }
+  
+
+  .caca{
+	color: red;
+  }
+
+
+ 
+
